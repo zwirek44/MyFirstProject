@@ -25,7 +25,6 @@ class ViewController: UIViewController {
     taxPctLabel.text = "Tax Percentage (\(Int(taxPctSlider.value))%)"
     // 4
     resultsTextView.text = ""
-    somekindofbadcode
   }
 
   override func viewDidLoad() {
